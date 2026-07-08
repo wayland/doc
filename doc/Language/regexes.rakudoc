@@ -601,7 +601,7 @@ L<C<\c> and C<\C>|#\c_and_\C>.
     <graph>  |           | <alnum> plus <punct>
     <space>  | \s        | Whitespace
     <cntrl>  |           | Control characters
-    <print>  |           | <graph> plus <space>, but no <cntrl>
+    <print>  |           | <graph> plus <space>
     <blank>  | \h        | Horizontal whitespace
     <lower>  | <:Ll>     | Lowercase characters
     <upper>  | <:Lu>     | Uppercase characters
